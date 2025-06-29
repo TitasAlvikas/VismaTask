@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VismaTask", "VismaTask\VismaTask.csproj", "{6326E456-F25F-4BC6-A019-A1F9979942E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VismaTask.Tests", "VismaTask.Tests\VismaTask.Tests.csproj", "{4587EB5F-0EC8-4AEC-9728-0D3629DC2B1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6326E456-F25F-4BC6-A019-A1F9979942E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6326E456-F25F-4BC6-A019-A1F9979942E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6326E456-F25F-4BC6-A019-A1F9979942E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6326E456-F25F-4BC6-A019-A1F9979942E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4587EB5F-0EC8-4AEC-9728-0D3629DC2B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4587EB5F-0EC8-4AEC-9728-0D3629DC2B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4587EB5F-0EC8-4AEC-9728-0D3629DC2B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4587EB5F-0EC8-4AEC-9728-0D3629DC2B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {398EE3A6-A36C-42B7-AFC7-62ECDA807E7C}
+	EndGlobalSection
+EndGlobal
